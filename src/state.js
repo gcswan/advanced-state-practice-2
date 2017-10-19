@@ -5919,7 +5919,7 @@ carsForSale:[{
   "id": 20,
   "imgUrl": "./featured-img-1.jpg",
   "year": "2011",
-  "make": "HONDA",
+  "make": "VOLVO",
   "model": "Accord",
   "price": "$91222.03",
   "km": 51607,
